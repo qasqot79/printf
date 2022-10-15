@@ -2,14 +2,13 @@ Tasks required for this project
 Task 0
 I am not going anywhere. You can print that wherever you want to. I'm here and I am a Spur for life1. I am not going anywhere. You can print that wherever you want to. I'm here and I am a Spur for life.
 Write a function that produces output according to a format. Handle the following conversion specifiers:
-
 c
 s
 %
+
 Task 1
 Education is when you read the fine print. Experience is what you get if you dont
 Handle the following conversion specifiers:
-
 d
 i
 Just because its in print doesn't mean its the gospel
@@ -22,12 +21,12 @@ Handle the following conversion specifiers:
 Task 3
 What one has not experienced, one will never understand in print
 Handle the following conversion specifiers:
-
 u
 x
 o
 x
 X
+
 Task 4
 Nothing in fine print is ever good news
 Use a local buffer of 1024 chars in order to call write as little as possible.
@@ -80,8 +79,8 @@ r : prints the reversed string
 task 14
 The flood of print has turned reading into a process of gulping rather than savoring
 Handle the following custom conversion specifier:
-
 R: prints the rot13'ed string
 *
+
 task 15
 All the above options work well together.
