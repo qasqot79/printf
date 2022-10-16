@@ -1,4 +1,6 @@
 #include "main.h"
+#include <stdlib.h>
+
 /**
  * handle_print - Prints an argument based on its type
  * @fmt: Formatted string in which is to print the arguments.
